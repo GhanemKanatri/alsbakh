@@ -200,7 +200,7 @@ Font: **Inter** (Google Fonts)
 Built by **Ghanem Kanatri** — Freelance Full Stack Developer
 
 - GitHub: [@ghanemkanatri](https://github.com/ghanemkanatri)
-- Instagram: [@GhanemKanatri]
+- Instagram: [@GhanemKanatri](https://www.instagram.com/ghanemkanatri/)
 
 ---
 
