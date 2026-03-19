@@ -164,8 +164,8 @@ php artisan serve
 
 ```
 URL:      http://localhost:8000/admin/login
-Email:    admin@alsbakh.com
-Password: alsbakh2024
+Email:    ~~
+Password: ~~
 ```
 
 ---
